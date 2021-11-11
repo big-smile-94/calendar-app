@@ -2,7 +2,7 @@
 The aim of this demo project is to copy the functionalities from https://fullcalendar.io/ using React.
 
 TODO: 
-1. Plan and design
+1. Plan and design each of the following 
 2. Show a full calendar on the screen by month view(current month being active by default and current day being highlighted)
 3. Add forward and back buttons to navigate between the months 
 4. Add today button to transition to the current month 
