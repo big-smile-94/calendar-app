@@ -1,5 +1,5 @@
 # calendar-app
-The aim of this demo project is to copy the functionalities from https://fullcalendar.io/ using React.
+The aim of this demo project is to copy the functionalities from https://fullcalendar.io/ using React and pure CSS.
 
 TODO: 
 1. Plan and design each of the following 
